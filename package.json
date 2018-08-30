@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "5.2.10",
+    "express": "4.16.3"
+  }
+}
